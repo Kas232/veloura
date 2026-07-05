@@ -77,13 +77,7 @@ This project was created to:
 
 ---
 
-## 📸 Preview
 
-<img width="100%" src="https://raw.githubusercontent.com/Kas232/veloura/main/preview.png" alt="Veloura Preview">
-
-> *(Replace `preview.png` with a screenshot of your homepage.)*
-
----
 
 ## 👩‍💻 Author
 
